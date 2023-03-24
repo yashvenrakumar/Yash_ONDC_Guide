@@ -1,0 +1,15 @@
+{
+  "context": {
+    "domain": "nic2004:52110",
+    "country": "IND",
+    "city": "*",
+    "action": "search",
+    "core_version": "0.9.1",
+    "bap_id": "ghoshak.com",
+    "bap_uri": "https://www.ghoshak.com/",
+    "transaction_id": "f6d9f908-1d26-4ff3-a6d1-3af3d3721054asdf_12",
+    "message_id": "b2fe6d52-9fe4-4d1a-9d0b-dccb8b48522dasdf_12",
+    "timestamp": "2023-03-21T12:16:47.082Z"
+  },
+  "message": { "intent": { "descriptor": { "name": "maggi" } } }
+}
